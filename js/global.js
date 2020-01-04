@@ -1,4 +1,5 @@
-const HOST = "localhost/admin";
+//const HOST = "localhost/admin";
+const HOST = "osgenics.xyz/portalberitadaerah";
 const PHP_URL = "http://"+HOST+"/php/";
 
 function uuidv4() {
