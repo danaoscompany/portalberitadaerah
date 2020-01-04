@@ -1,6 +1,6 @@
 //const HOST = "localhost/admin";
 const HOST = "osgenics.xyz/portalberitadaerah";
-const PHP_URL = "http://"+HOST+"/php/";
+const PHP_URL = "https://"+HOST+"/php/";
 
 function uuidv4() {
     return 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(/[xy]/g, function(c) {
